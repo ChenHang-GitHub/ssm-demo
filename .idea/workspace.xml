@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9c8ee825-f405-43e6-80d5-f06f3431ce32" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/testGit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/testGit.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/testGit.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -175,7 +174,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="7" />
     <option name="y" value="61" />
     <option name="width" value="1936" />
@@ -558,7 +557,7 @@
       <workItem from="1564917154852" duration="14000" />
       <workItem from="1564917232820" duration="43000" />
       <workItem from="1564917363734" duration="574000" />
-      <workItem from="1564928852890" duration="729000" />
+      <workItem from="1564928852890" duration="1006000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1564912394225</created>
@@ -571,10 +570,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63502000" />
+    <option name="totallyTimeSpent" value="63779000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.32814237" />
@@ -995,7 +994,7 @@
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/testGit.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
         </state>
       </provider>
     </entry>
