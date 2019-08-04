@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c8ee825-f405-43e6-80d5-f06f3431ce32" name="Default" comment="" />
+    <list default="true" id="9c8ee825-f405-43e6-80d5-f06f3431ce32" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,8 +52,8 @@
       <file leaf-file-name="success.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/success.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="107">
+              <caret line="8" selection-start-line="8" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -182,7 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,6 +238,7 @@
       </pane>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -568,6 +570,7 @@
       <workItem from="1564917232820" duration="43000" />
       <workItem from="1564917363734" duration="574000" />
       <workItem from="1564921181945" duration="78000" />
+      <workItem from="1564930211595" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1564912394225</created>
@@ -580,17 +583,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63778000" />
+    <option name="totallyTimeSpent" value="64378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="704" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.503125" side_tool="true" visible="true" weight="0.32698414" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.50390625" side_tool="true" visible="true" weight="0.32698414" />
       <window_info anchor="bottom" id="Application Servers" order="9" sideWeight="0.49946696" weight="0.32925472" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="MyBatis Log" />
+      <window_info anchor="bottom" id="MyBatis Log" order="12" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
@@ -605,11 +608,11 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8869936" weight="0.38598442" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49946696" weight="0.32925472" />
-      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.496875" visible="true" weight="0.32698414" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.495283" visible="true" weight="0.26015624" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49609375" visible="true" weight="0.32698414" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49292454" visible="true" weight="0.26015624" />
       <window_info id="Web" order="2" sideWeight="0.50211865" side_tool="true" weight="0.25586355" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" sideWeight="0.504717" side_tool="true" visible="true" weight="0.26015624" />
+      <window_info id="Favorites" order="2" sideWeight="0.5070755" side_tool="true" visible="true" weight="0.26015624" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -960,8 +963,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/success.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="107">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
         </state>
       </provider>
     </entry>
