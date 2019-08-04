@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<!DOCTYPE mapper
+				PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+				"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.dao.UserMapper">
+
+<resultMap type="User" id="userList">
+	<result property="id" column="id"/>
+	<result property="username" column="username"/>
+	<result property="userpassword" column="userpassword"/>
+	<result property="usermessage" column="usermessage"/>
+</resultMap>
+
+<insert id="insertUser" parameterType="User">
+        insert into user   (username,userpassword,usermessage) values (#{username},#{userpassword},#{usermessage})
+    </insert>
+
+    <select id="checkAllUser" resultMap="userList">
+        select   *from  user
+    </select>
+
+	<select id="checkUserByName" resultMap="userList">
+		<if test="searchtext!=null">
+		select *from  user where username = #{searchtext}
+		</if>
+	</select>
+
+
+</mapper>

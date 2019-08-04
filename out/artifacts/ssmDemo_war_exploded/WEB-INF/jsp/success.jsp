@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-success csh
+success
 </body>
 </html>
