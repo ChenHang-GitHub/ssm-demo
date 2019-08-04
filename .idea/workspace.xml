@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c8ee825-f405-43e6-80d5-f06f3431ce32" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/success.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -552,7 +553,7 @@
       <workItem from="1563953467549" duration="61000" />
       <workItem from="1564220016280" duration="2920000" />
       <workItem from="1564320001359" duration="4457000" />
-      <workItem from="1564912165226" duration="1330000" />
+      <workItem from="1564912165226" duration="1593000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1564912394225</created>
@@ -565,7 +566,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61826000" />
+    <option name="totallyTimeSpent" value="62089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
